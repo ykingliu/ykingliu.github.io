@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>liu的博客</title>
-  <subtitle>胆小认生，不易相处</subtitle>
+  <title>刘远庆的博客</title>
+  <subtitle>傲骨天生如此，禅心自古凛然。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="//litten.me/"/>
@@ -9,8 +9,8 @@
   <id>//litten.me/</id>
   
   <author>
-    <name>Litten</name>
-    <email>litten225@qq.com</email>
+    <name>刘远庆</name>
+    <email>1697856409@qq.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
